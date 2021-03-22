@@ -6,8 +6,7 @@
       "name": "directory",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyO/3R4YhZsVrCA/sbF5FwmV",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyO/3R4YhZsVrCA/sbF5FwmV"
     },
     "kernelspec": {
       "name": "python3",
@@ -15,16 +14,6 @@
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/elelifnur/python_directory/blob/main/directory.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "metadata": {
